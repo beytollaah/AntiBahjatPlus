@@ -11,4 +11,4 @@ Running Space on HuggingFace: [bit.ly/AntiBahjatPlus](bit.ly/AntiBahjatPlus)
 Run on your Colab: [bit.ly/AntiBahjatPlus_Colab](bit.ly/AntiBahjatPlus_Colab)
 
 
-twitter.com/beytollaah
+Contact me: [twitter.com/beytollaah](twitter.com/beytollaah)
