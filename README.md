@@ -6,9 +6,9 @@ This repo provides a pipeline based on gradio UI to blur faces, and change the a
 The code will be deployable to Colab and HuggingFaces.
 
 
-Running Space on HuggingFace: [bit.ly/AntiBahjatPlus][bit.ly/AntiBahjatPlus]
+Running Space on HuggingFace: [bit.ly/AntiBahjatPlus](https://bit.ly/AntiBahjatPlus)
 
-Run on your Colab: [bit.ly/AntiBahjatPlus_Colab][bit.ly/AntiBahjatPlus_Colab]
+Run on your Colab: [bit.ly/AntiBahjatPlus_Colab](https://bit.ly/AntiBahjatPlus_Colab)
 
 
-Contact me: [twitter.com/beytollaah][twitter.com/beytollaah]
+Contact me: [twitter.com/beytollaah](https://twitter.com/beytollaah)
