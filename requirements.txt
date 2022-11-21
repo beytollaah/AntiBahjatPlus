@@ -1,0 +1,2 @@
+gradio==3.10.1
+git+https://github.com/beytollaah/deface-for-WLL.git
